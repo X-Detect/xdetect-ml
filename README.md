@@ -27,7 +27,7 @@ Count Files: Use the notebook Hitung File yang Digunakan.ipynb to calculate the 
 
 Preprocessing and Setting Layer: Use the notebook Preprocessing dan Setting Layer.ipynb to perform data preprocessing and set up the layers of the MobileNet model.
 
-Train Model: Use the notebook Train Model.ipynb to train the MobileNet model on the dataset. The trained model will be saved as MobileNet_90_Adam_model.h5.
+Train Model: Use the notebook Train Model.ipynb to train the MobileNet model on the dataset. The trained model will be saved as MobileNet_Adam_CLAHE.h5.
 
 Test and Graphs: Use the notebook Test dan Grafik.ipynb to evaluate the trained model on a test dataset and generate classification reports, confusion matrices, and graphs.
 
